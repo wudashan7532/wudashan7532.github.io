@@ -14,8 +14,8 @@ catalog: true
 
 本以为`Github博客`可以设置多域名，然而官网表示暂不支持，所以`wudashan.cn`域名将不再使用。
 
-**请大家跳转至新的域名[wudashan.com](wudashan.com)！**
+**请大家跳转至新的域名[wudashan.com](http://wudashan.com)！**
 
-**请大家跳转至新的域名[wudashan.com](wudashan.com)！**
+**请大家跳转至新的域名[wudashan.com](http://wudashan.com)！**
 
-**请大家跳转至新的域名[wudashan.com](wudashan.com)！**
+**请大家跳转至新的域名[wudashan.com](http://wudashan.com)！**
