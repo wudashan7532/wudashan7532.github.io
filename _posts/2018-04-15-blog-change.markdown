@@ -8,4 +8,4 @@ header-img: "img/post-bg-blog-change.jpg"
 catalog: true
 ---
 
-经过三年的等待，终于购买到[wudashan.com](wudashan.com)域名，`wudashan.cn`域名将不再使用，请大家跳转至新的域名[wudashan.com](wudashan.com)！
+**经过三年的等待，终于购买到[wudashan.com](wudashan.com)域名，`wudashan.cn`域名将不再使用，请大家跳转至新的域名[wudashan.com](wudashan.com)！**
